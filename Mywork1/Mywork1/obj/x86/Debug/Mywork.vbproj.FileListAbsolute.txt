@@ -1,0 +1,10 @@
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\bin\Debug\Mywork1.exe
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\bin\Debug\Mywork1.pdb
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\bin\Debug\Mywork1.xml
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.Resources.resources
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.Mywork1.resources
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.Mywork2.resources
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork.vbproj.GenerateResource.Cache
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.exe
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.xml
+C:\Users\Win10x64_Bit\Documents\Visual Studio 2010\Projects\Mywork1\Mywork1\obj\x86\Debug\Mywork1.pdb
